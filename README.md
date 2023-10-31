@@ -1,2 +1,2 @@
 # find_logs
-asking for log file location, know giving out errors
+It will ask you for the location of the log file, to find its errors for you.
